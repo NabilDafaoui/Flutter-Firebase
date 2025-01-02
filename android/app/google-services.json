@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398097392253",
+    "project_id": "quiz-app-b8470",
+    "storage_bucket": "quiz-app-b8470.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398097392253:android:c39f38fb985e2bd34e8714",
+        "android_client_info": {
+          "package_name": "com.example.tp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYIDVWUrB7wC5NUOrmTZu6ntRKMJkjGl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
